@@ -2,7 +2,7 @@
   "categories": [
     {
       "name": "Recent",
-      "image": "https://drive.google.com/file/d/1NHDARE8Ur_KUOKYXFWVfncf-9XSwBLrn/view?usp\u003ddrivesdk"
+      "image": "https://1.bp.blogspot.com/-J821gh-Jrwg/YRFKROFi5KI/AAAAAAAAAjo/HJS63w8K34MV5fG6eKhIN4aZ6RhiTX1_wCLcBGAsYHQ/s320/mika-048.jpg"
     },
     {
       "name": "Action",
@@ -47,7 +47,7 @@
     {
       "title": "Hacksaw",
       "desc": "This is a description.",
-      "image": "https://github.com/khantwaik4/simple-fm/blob/gh-pages/4dcf5ab4-d2af-4421-983c-ad319da6b754.jpg",
+      "image": "https://drive.google.com/file/d/1MQarAi3K7RrX9Gdl66oBTLsY7tiYsfLy/view?usp\u003ddrivesdk",
       "link": "https://drive.google.com/file/d/1tynhZNJSmBZchmLjo3cHc_lqBqDcHYAV/view?usp\u003ddrivesdk"
     }
   ],
@@ -76,6 +76,20 @@
       "title": "Wonder",
       "desc": "This is a description.",
       "image": "https://drive.google.com/file/d/1MjLRUchOzD6cLWSurs35cVsFf-FpSFZ1/view?usp\u003ddrivesdk",
+      "link": "https://drive.google.com/file/d/1tynhZNJSmBZchmLjo3cHc_lqBqDcHYAV/view?usp\u003ddrivesdk"
+    }
+  ],
+  "Suspense": [
+    {
+      "title": "Dunkirk",
+      "desc": "This is a description.",
+      "image": "https://drive.google.com/file/d/1MZhtQYZ4SNrsRwQERh2G8-vJ6rIKhyS9/view?usp\u003ddrivesdk",
+      "link": "https://drive.google.com/file/d/1tynhZNJSmBZchmLjo3cHc_lqBqDcHYAV/view?usp\u003ddrivesdk"
+    },
+    {
+      "title": "Creed",
+      "desc": "This is a description.",
+      "image": "https://drive.google.com/file/d/1McSlqivs9wPnDW5Han1uNyZ1iukNyYmH/view?usp\u003ddrivesdk",
       "link": "https://drive.google.com/file/d/1tynhZNJSmBZchmLjo3cHc_lqBqDcHYAV/view?usp\u003ddrivesdk"
     }
   ]
