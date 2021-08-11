@@ -26,20 +26,26 @@
       "category": "Action"
     },
     {
-      "title": "spiderman no way home",
+      "title": "spiderman home coming",
       "desc": "This is a description.",
       "image": "https://1.bp.blogspot.com/-OiblPS1jQ2s/YRQGZubLAsI/AAAAAAAAAkA/wP7PpZaBCyEUigBbkJxuz31yRXgeGPKyQCLcBGAsYHQ/s200/IMG_20210811_234146_380.jpg",
       "link": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210528/8f974054e9044f9.mp4",
       "category": "Drama"
+    },
+    {
+      "title": "spiderman no way home",
+      "desc": "This is a description.",
+      "image": "https://1.bp.blogspot.com/-OiblPS1jQ2s/YRQGZubLAsI/AAAAAAAAAkA/wP7PpZaBCyEUigBbkJxuz31yRXgeGPKyQCLcBGAsYHQ/s200/IMG_20210811_234146_380.jpg",
+      "link": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210528/8f974054e9044f9.mp4",
+      "category": "Action"
     }
   ],
   "Action": [
     {
-      "title": "Hobbs & shan",
+      "title": "Hobbs \u0026 shan",
       "desc": "wwe ဖိုက္တာျကီး the rock ပါဝင္သရုပ္ေဆာင္ထားတဲ႕ဇာတ္ကားေလးပါ။",
       "image": "https://1.bp.blogspot.com/-ue93MDCIZkA/YRQNQb8RspI/AAAAAAAAAkI/WqhI4wJIZu41ilUAyDdXd6GruhTOfQjlQCLcBGAsYHQ/s810/IMG_20210811_235909_642.jpg",
       "link": "http://media1.mytel.com.mm:80/video/videomocha_upload/mp4/20210422/f6eb7e9f975e434.mp4"
-
     },
     {
       "title": "Hacksaw",
