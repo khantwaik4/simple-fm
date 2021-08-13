@@ -11,6 +11,10 @@
     {
       "name": "cartoon",
       "image": "https://1.bp.blogspot.com/-gzH6US-eyzE/YRS6CS4_DYI/AAAAAAAAAkQ/SytPUKiMQIkdoBTTz6BwSzDf_Gfd3iYoQCLcBGAsYHQ/s200/images.jpeg"
+    },
+    {
+      "name": "Horror",
+      "image": "https://1.bp.blogspot.com/-gzH6US-eyzE/YRS6CS4_DYI/AAAAAAAAAkQ/SytPUKiMQIkdoBTTz6BwSzDf_Gfd3iYoQCLcBGAsYHQ/s200/images.jpeg"
     }
   ],
   "Recent": [
@@ -125,6 +129,14 @@
       "desc": "This is a description.",
       "image": "https://1.bp.blogspot.com/-qNdsp7mMsQo/YRY3oKthFxI/AAAAAAAAAl0/WkGdKRGu-esqaCSp6SrXPGTEd3T_MlUUQCPcBGAYYCw/s320/images%2B%25284%2529%2B%25285%2529.jpeg",
       "link": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210426/6e64907bd87a446.mp4"
+    }
+  ],
+  "Horror": [
+    {
+      "title": "Train to busan 2016",
+      "desc": "wwe ဖိုက္တာျကီး the rock ပါဝင္သရုပ္ေဆာင္ထားတဲ႕ဇာတ္ကားေလးပါ။",
+      "image": "https://1.bp.blogspot.com/-TJOiyoycrEo/YRNwISf3cuI/AAAAAAAAAjw/P1bu3A5ItvQaspnKo41sJvqlg3xCeA4gACLcBGAsYHQ/s200/outline_movie_creation_black_48.png",
+      "link": "http://media1.mytel.com.mm:80/video/videomocha_upload/mp4/20210428/9096254e3248436.mp4"
     }
   ]
 }
